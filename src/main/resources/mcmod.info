@@ -1,0 +1,17 @@
+[
+{
+  "modid": "scp",
+  "name": "SCP Mod",
+  "description": "A mod that adds SCPs and abandoned SCP facilities to the world to explore. It is also possible to contain and use these SCPs to your advantage.",
+  "version": "A0.1",
+  "mcversion": "1.7.10",
+  "url": "http://completegar.com/",
+  "updateUrl": "",
+  "authorList": ["loudonlune", "IDKMINECRAFT2000"],
+  "credits": "IDKMINECRAFT2000 for modeling, MrCrayfish for his model editor, and the SCP community.",
+  "logoFile": "",
+  "screenshots": [],
+  "requiredMods": ["garcore"],
+  "dependencies": []
+}
+]
